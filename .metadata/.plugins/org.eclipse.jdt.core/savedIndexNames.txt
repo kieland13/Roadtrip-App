@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\DCTC\DataStructures\Roadtrip\.metadata\.plugins\org.eclipse.jdt.core
+1399850644.index
